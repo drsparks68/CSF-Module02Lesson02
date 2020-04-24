@@ -1,0 +1,7 @@
+C:\Users\despar\source\Modul02Lesson02\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\despar\source\Modul02Lesson02\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\despar\source\Modul02Lesson02\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\despar\source\Modul02Lesson02\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\despar\source\Modul02Lesson02\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\despar\source\Modul02Lesson02\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\despar\source\Modul02Lesson02\ConsoleUI\obj\Debug\ConsoleUI.pdb
